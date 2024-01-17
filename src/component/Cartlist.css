@@ -1,0 +1,32 @@
+.listingitem{
+
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between ;
+
+
+
+}
+
+.item-img{
+
+    width:100px;
+    height:100px;   
+
+
+
+}
+
+.items{
+
+    width:600px;
+    height:200px;
+    
+    display:flex;
+    justify-content:space-between;
+
+    margin-bottom:20px;
+
+
+
+}

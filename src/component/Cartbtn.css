@@ -1,0 +1,27 @@
+.count{
+    position:absolute;
+    border-radius:50%;
+    background-color:chartreuse;
+    width:20px;
+    height:20px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    left:20px;
+    bottom:30px;
+}
+
+.cart{
+    border-radius:50%;
+    background-color:skyblue;
+    height:50px;
+    width:50px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    position: relative;
+}
+.btns{
+    border:none;
+    background-color:skyblue
+}
